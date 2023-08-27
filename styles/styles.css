@@ -205,3 +205,184 @@
     font-weight: 600;
     line-height: 35px;
 }
+
+.section-5 {
+    width: 1922px;
+    height: 620px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+    display: flex;
+}
+
+.section-5-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 230px 0px 0px 420px;
+}
+
+.section-5-description {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 395px;
+}
+
+.button-2 {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 603px;
+    margin-top: 20px;
+}
+
+.section-5-profile {
+    width: 318px;
+    height: 420px;
+    flex-shrink: 0;
+    padding-top: 100px;
+    padding-left: 215px;
+
+}
+
+.degine {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-6 {
+    margin-top: 128px;
+}
+
+.instagram {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-left: 870px;
+}
+
+.instagram-des {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 663px;
+    text-align: center;
+}
+
+.section-7 {
+    margin: 40px 240px 0px 240px;
+    display: flex;
+    gap: 24px;
+    width: 342px;
+    height: 396px;
+    flex-shrink: 0;
+}
+
+.section-8 {
+    background: url("../Flower\ Asset/Rectangle 9.png");
+    width: 1440px;
+    height: 449px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    margin: 128px 240px 0px 240px;
+}
+
+.section-8-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding: 122px 533px 0px 533px;
+}
+
+.section-8-des {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: -16px 605px 0px 605px;
+}
+
+.from {
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #FFF;
+    margin-left: 287px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    padding-left: 22px;
+    border: 0px;
+}
+
+.section-8-button {
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    margin-left: 10px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.footer {
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+    margin-top: 128px;
+}
+
+.footer-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding: 128px 832px 0px 832px;
+}
+
+.footer-des {
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 0px 649px;
+
+}
+
+.last {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 792px;
+}
+
+.degine-2 {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
