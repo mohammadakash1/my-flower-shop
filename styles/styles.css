@@ -1,0 +1,50 @@
+.firts-section {
+    width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    background: rgba(229, 84, 115, 0.1);
+    display: flex;
+}
+
+.firts-header {
+    width: 708px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-weight: 800;
+    padding-left: 240px;
+    padding-top: 200px;
+}
+
+.primary-description {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-left: 240px;
+}
+
+.primary-button {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0px;
+    margin-left: 230px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.profile-img {
+    width: 635px;
+    height: 800px;
+    padding-top: 50px;
+    padding-right: 240px;
+    padding-left: 100px;
+}
