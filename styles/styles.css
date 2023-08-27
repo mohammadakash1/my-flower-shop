@@ -115,7 +115,7 @@
     padding: 117px 47px 51px 47px;
 }
 
-.description-2{
+.description-2 {
     color: #272727;
     text-align: center;
     font-size: 24px;
@@ -139,11 +139,69 @@
     padding: 67px 75px 0px 75px;
 }
 
-.description-3{
+.description-3 {
     color: #272727;
     text-align: center;
     font-size: 24px;
     font-weight: 700;
     line-height: 35px;
     text-decoration-line: underline;
+}
+
+.section-4 {
+    width: 1440px;
+    height: 320px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 128px 240px 0px 240px;
+    display: flex;
+}
+
+.icon-1 {
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    padding: 86px 0px 0px 317px;
+}
+
+.description-4 {
+    padding: 0px 0px 87px 175px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.icon-2 {
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    padding: 86px 0px 0px 200px;
+}
+
+.description-5 {
+    padding: 0px 0px 87px 100px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+
+.icon-3 {
+    width: 88px;
+    height: 88px;
+    flex-shrink: 0;
+    padding: 86px 0px 0px 150px;
+}
+
+.description-6 {
+    padding: 0px 0px 87px 100px;
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
 }
